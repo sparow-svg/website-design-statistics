@@ -25,6 +25,8 @@ Full write-up with charts and screenshots: **[Website Design Statistics 2026 on 
 
 ## The data
 
+Also on [Hugging Face](https://huggingface.co/datasets/Sparrowbird/website-design-statistics-2026) and [Kaggle](https://www.kaggle.com/datasets/sparrowsvg/website-design-statistics-2026).
+
 [`website-design-statistics-2026.csv`](website-design-statistics-2026.csv), one row per site:
 
 | Column | Meaning |
