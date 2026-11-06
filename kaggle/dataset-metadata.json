@@ -1,0 +1,8 @@
+{
+  "title": "Website Design Statistics 2026",
+  "subtitle": "Fonts, headline sizes, dark mode and buttons on 196 SaaS and AI homepages",
+  "id": "KAGGLE_USERNAME/website-design-statistics-2026",
+  "licenses": [{"name": "CC-BY-4.0"}],
+  "keywords": ["design", "websites", "typography", "business"],
+  "description": "Headline size, fonts, body text, dark mode, gradients and buttons, measured on the homepages of 196 SaaS and AI companies in November 2026.\n\nFull write-up with charts: https://www.browsermoon.com/blog/website-design-statistics\n\nKey findings: median headline 64px and 6 words; 84% of headlines use a brand's own or less common font (Inter 9%, Geist 5%); body text about 18px; 36% of homepages are dark; 53% use a gradient in the first screen; median main button 46px tall, blue in 29% of cases.\n\nMethod: homepages loaded in a desktop browser at 1440x900; 22 of 218 excluded for bot checks or failed loads. Columns are described on GitHub: https://github.com/sparow-svg/website-design-statistics\n\nSource: BrowserMoon (https://www.browsermoon.com). Licensed CC BY 4.0: please credit and link the source."
+}

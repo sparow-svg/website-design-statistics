@@ -1,0 +1,197 @@
+site,category,headline_font,headline_px,headline_weight,headline_letter_spacing,headline_words,body_px,dark_background,gradient_in_first_screen,button_text,button_background,button_radius,button_height_px
+21st.dev,ai,Inter,85.0,700,-4.248px,4,20.9,True,True,Get 21st free,oklch(0.485 0.291 264.121),10px,46
+abridge.com,ai,Avantt,72,500,-2.88px,5,20,True,True,,,,
+ahrefs.com,saas,Ahrefs,60,400,normal,8,24,True,False,Sign up for Ahrefs,"rgb(255, 141, 0)",5px,72
+airtable.com,saas,Haas,40,400,normal,9,16,False,True,Get started for free,"rgb(24, 29, 38)",12px,56
+amplitude.com,saas,Twemoji Country Flags,72,600,-1px,6,18,False,True,Amplitude Solutions →,"rgb(26, 31, 35)",6px,56
+anthropic.com,ai,anthropicSans,51.9,600,normal,4,16.7,False,False,Learn more,"rgb(20, 20, 19)",10px,36
+apollo.io,saas,seasonMix,72,550,-0.72px,7,12,False,False,Sign up for free,"rgb(235, 242, 18)",8px,48
+arc.net,saas,Exposure VAR,76,600,-2.432px,4,21,True,False,,,,
+asana.com,saas,TWK Lausanne,102,300,-2.55px,5,26,False,True,Continue,"rgb(13, 13, 13)",100px,50
+atlassian.com,saas,Charlie Display,64,500,-1.28px,5,14,False,False,Get started with Jira,"rgb(24, 104, 219)",10000px,48
+attio.com,saas,interDisplay,64,600,-1.28px,4,18,True,True,Talk to sales,lab(99.9987 0.0337958 0.000309944),10px,36
+auth0.com,saas,Aeonik,64,400,-1px,6,20,True,True,See it in action,"rgb(255, 255, 255)",4px,50
+beehiiv.com,saas,ClashGroteskFont,60,700,normal,5,20,True,True,Trial Premium Features,"rgb(255, 255, 255)",9999px,52
+betterstack.com,saas,Helvetica Now Display,53,500,normal,5,20,True,True,,,,
+bland.ai,ai,soehne,54,600,-1.08px,5,20,False,True,Book a call,"rgb(249, 169, 0)",0px,52
+bolt.new,ai,Schibsted Grotesk,48,600,-1.2px,5,18,True,False,Build now,"rgb(43, 166, 255)",9999px,36
+brex.com,saas,inter,72,600,-1.44px,6,12,False,False,Get started,"rgb(255, 61, 0)",8px,40
+browserbase.com,ai,gtPlanar,45,500,-0.9px,8,20,False,False,Get API key,"rgb(0, 0, 0)",99px,39
+buffer.com,saas,Stolzl,18,400,-0.36px,1,24,False,True,,,,
+cal.com,saas,calSans,80,700,-0.8px,15,20,False,False,NEW Cal.com launches v6.9.5,color(srgb 0.934118 0.939608 0.950588),3.35544e+07px,32
+calendly.com,saas,Calendly Sans,72,500,-2px,6,18,False,True,Sign up with Google,"rgb(252, 251, 248)",20px,50
+canva.com,saas,Canva Sans,24,600,normal,5,,False,True,,,,
+captions.ai,ai,Exposure-09cb373df0d2138c,48,400,-0.48px,8,13,False,True,Edit,"rgb(255, 255, 255)",58px,40
+chargebee.com,saas,Inter Variable,78,400,-5.5px,6,14,False,True,Start Free Trial,"rgb(255, 255, 255)",999px,48
+clay.com,saas,Roobertvf,88,575,-3.52px,5,24,True,True,Start free trial,"rgb(255, 255, 255)",12px,47
+clerk.com,saas,geistNumbers,56,700,-1.96px,5,18,False,True,Support,"rgb(33, 33, 38)",3.35544e+07px,40
+clickup.com,saas,Plus Jakarta Sans,60,700,-2.1px,7,22,False,True,The Best AI is,"rgb(232, 232, 232)",54px,30
+close.com,saas,InnovatorGroteskVF,60,600,-1.5px,6,19,False,False,,,,
+cloudflare.com,saas,STK Bureau Sans,56,500,-1.4px,11,19.2,False,False,Start building for free,"rgb(255, 255, 255)",3.35544e+07px,50
+coda.io,saas,Calibre-R,72,700,-3.24px,4,22,False,False,Request a demo,"rgb(255, 255, 255)",8px,40
+codeium.com,ai,nbInternationalPro,40,400,-1.2px,2,16,False,False,Download for MacOS,"rgb(0, 0, 0)",3.35544e+07px,42
+cognition.ai,ai,nbInternational,36,400,-0.72px,8,15,False,True,Try Devin,"rgb(25, 25, 25)",0px,32
+cohere.com,ai,CohereText,96,400,-1.92px,4,16,False,False,,,,
+copy.ai,ai,ABC Normal,88,600,normal,2,26,False,False,Get a Demo Get a Demo,"rgb(105, 62, 223)",4px,47
+craft.do,saas,UntitledSerifFont,66,400,-1.98px,8,,False,True,Try Craft Free,"rgb(3, 3, 2)",3.35544e+07px,36
+cresta.com,ai,DM Sans Variable,46,500,-1.38px,7,14,False,True,Book a demo,"rgb(32, 90, 227)",8px,38
+crewai.com,ai,Exposure,60,300,-2.4px,13,16,True,False,,,,
+crisp.chat,saas,Crisp Inter Bold,48,400,normal,12,14.5,False,True,Get your AI Agent,"rgb(13, 102, 233)",30px,50
+cron.com,saas,Helvetica Neue,140,700,-3px,3,22,True,False,Cron is now Notion Calendar →,"rgb(22, 20, 18)",4px,45
+cursor.com,ai,CursorGothic,26,400,-0.325px,9,17.3,False,True,Download for macOS ⤓,"rgb(38, 37, 30)",3.35544e+07px,43
+customer.io,saas,saansFont,96,475,0.2px,11,20,True,False,Get started Get started,oklch(0.3068 0.046 206.34),3.35544e+07px,48
+databricks.com,saas,DM Sans,56,500,normal,7,24,False,False,Explore the product,"rgb(235, 22, 0)",0px,40
+datadoghq.com,saas,NationalWeb,68,600,normal,4,,False,True,FREE TRIAL,"rgb(99, 44, 166)",4px,54
+dbt.com,saas,polymath,64,600,normal,8,18,False,True,Get started with dbt,"rgb(254, 103, 3)",12px,48
+decagon.ai,ai,Circularxx,72,500,-2.88px,6,20,False,False,,,,
+deel.com,saas,BagossCondensedFont,60,500,-0.19px,7,12,False,True,Hire anywhere,"rgb(255, 255, 255)",12px,80
+descript.com,saas,brett,18,400,0.72px,3,18,True,False,Get started for free,"rgb(247, 59, 59)",12px,56
+docker.com,saas,Repro,64,500,-1.92px,7,14.5,True,False,Get started,"rgb(255, 255, 255)",4px,34
+docusign.com,saas,DSIndigo,80,300,-1.5px,5,18,False,True,Get Started,"rgb(19, 0, 50)",0px 8px 8px 0px,61
+dropbox.com,saas,Sharp Grotesk,40,500,normal,6,20,False,False,Try Dropbox free,"rgb(0, 97, 254)",16px,71
+durable.co,ai,newSpiritCondensed,96,400,normal,5,18,False,True,,,,
+dust.tt,ai,Geist,69.1,550,-2.7648px,5,18,True,False,,,,
+e2b.dev,ai,PP Supply Sans,72,600,-0.72px,5,18,True,False,START BUILDING,"rgb(227, 42, 1)",0px,44
+elevenlabs.io,ai,Waldenburg,48,300,-0.96px,4,14,False,False,Sign up,"rgb(0, 0, 0)",9999px,44
+factory.ai,ai,Geist,18,400,normal,1,,False,True,,,,
+fastly.com,saas,TTHovesPro-c66fd427fd6ba346,72,400,-2.88px,4,16,True,True,Talk to an expert,"rgb(0, 103, 209)",4px,41
+fathom.video,saas,Sora,78.4,300,-2.5px,8,14,True,True,GET STARTED - FREE FOREVER,"rgb(0, 190, 255)",56px,49
+figma.com,saas,figmaSans,56,400,-1.25px,4,30,False,False,Contact sales,oklch(0 0 none / 0),8px,46
+fireflies.ai,ai,DM Sans,56,500,1.12px,7,14,True,False,Get Started,"rgb(122, 90, 248)",4px,48
+fireworks.ai,ai,sharpSerifText,56,400,-1.68px,5,18,False,True,Get started,"rgb(40, 0, 22)",96px,52
+fivetran.com,saas,Inter,44,600,0.16px,5,16,False,False,Get started for free,"rgb(48, 107, 234)",4px,37
+fly.io,saas,Mackinac,64,500,-2.88px,15,18,False,True,Deploy your app,"rgb(124, 58, 237)",9999px,48
+framer.com,saas,GT Walsheim Medium,54,500,-2.16px,11,18,True,False,Get started for free,"rgb(255, 255, 255)",8px,34
+front.com,saas,Suisse Intl,43,500,-0.75px,14,20,True,False,Request demo,"rgb(222, 233, 72)",64px,48
+fullstory.com,saas,neulis-neue,62,400,normal,7,20,False,True,GET A DEMO,"rgb(17, 171, 133)",4px,64
+galileo.ai,ai,Geist,64,400,-2px,7,20,True,False,Book a Demo,"rgb(227, 85, 84)",80px,40
+ghost.org,saas,InterVariable,96,700,-2.4px,6,,False,False,Just launched: Ghost 6.0 →,"rgb(254, 193, 55)",9999px,38
+github.com,saas,Mona Sans,56,440,normal,5,,False,False,GitHub Universe ‘26 Recap,"rgb(249, 251, 249)",9999.01px,46
+gitlab.com,saas,GitLab Sans,96,660,-2.88px,9,96,True,True,Get free trial,"rgb(252, 251, 252)",4px,46
+glean.com,ai,Polysans Neutral,56,400,-2.4px,9,16,False,True,Get a demo,"rgb(52, 60, 237)",64px,43
+gong.io,saas,Grotesk,60,700,-1.2px,24,14,True,False,Talk to sales,lab(67.1375 72.8029 -48.9776),3.35544e+07px,48
+grafana.com,saas,Poppins,60,600,-1.5px,10,20,False,True,Get started free,"rgb(27, 85, 245)",8px,48
+grammarly.com,saas,matter,46,670,-0.46px,8,18,False,False,Sign up It’s free,"rgb(2, 126, 111)",6px,60
+granola.ai,ai,quadrant,86.4,400,-1.728px,6,13,False,True,New Voice typing by Granola,"rgb(247, 247, 242)",3.35544e+07px,32
+groq.com,ai,esBuild,50.5,500,-1.51494px,3,16.0,False,False,,,,
+harvey.ai,ai,HarveySerifFont,72,400,-0.9px,5,14,False,False,Request a Demo,"rgb(15, 14, 13)",4px,48
+hebbia.ai,ai,Selecta,16,400,normal,1,18.2,True,True,,,,
+helpscout.com,saas,Scoutie Sans,89.2,500,-1.78416px,12,11,False,False,Start for Free,"rgb(0, 100, 240)",9999px,57
+hex.tech,saas,PP Formula SemiExtended,74,700,-1.85px,7,14,True,True,,,,
+heygen.com,ai,ABC Solar Display,60,400,normal,7,,False,True,Get started for free,"rgb(0, 195, 255)",12px,44
+hootsuite.com,saas,Montserrat,40.3,600,normal,22,16,False,True,Start your free trial,"rgb(31, 96, 201)",5.328px,72
+hotjar.com,saas,__NewEdgeRounded_5045de,48,400,normal,9,20,False,False,,,,
+hubspot.com,saas,HubSpot Serif,65,300,normal,12,18,False,True,,,,
+huggingface.co,ai,Source Sans Pro,48,700,normal,6,18,True,True,Sign Up,oklch(0.21 0.034 264.665),3.35544e+07px,30
+ideogram.ai,ai,Exposure,64,400,-4.48px,6,18,True,True,Get started Get started,"rgb(189, 159, 255)",999px,40
+incident.io,saas,STKBureauSerif,80,400,-3.2px,6,16,False,True,Get a demo,"rgb(242, 85, 51)",3.35544e+07px,49
+inflection.ai,ai,Grenette Pro Regular,120,400,-5px,3,,False,False,,,,
+intercom.com,saas,Saans,80,400,-2.4px,9,16,False,False,Start free trial,"rgb(17, 17, 17)",4px,40
+jasper.ai,ai,Feature,88,400,-4px,5,18,False,False,Get a Demo,"rgb(0, 6, 61)",0px,48
+jina.ai,ai,poppins,14,300,-0.21868px,4,,False,True,,,,
+krea.ai,ai,Suisse Intl,48,450,normal,3,,True,True,,,,
+labelbox.com,ai,The Future,57.6,400,-1.44px,7,20,False,False,Try Recursion,"rgb(54, 112, 127)",8px 0px 0px 8px,42
+langchain.com,ai,Twklausanne,64,300,-1.92px,3,,True,True,Start building,"rgb(229, 244, 255)",6px,48
+launchdarkly.com,saas,headingFont3,80,700,-2px,7,14,True,False,Book a demo,"rgb(221, 255, 70)",12px,50
+lemonsqueezy.com,saas,Circularpro book,80,400,-3.2px,7,18,True,False,Get started,"rgba(255, 255, 255, 0.9)",40px,57
+lindy.ai,ai,Manrope,72,700,-1.44px,5,20,False,True,Try for free,"rgb(42, 102, 255)",12px,48
+linear.app,saas,Inter Variable,64,510,-1.408px,16,15,True,True,,,,
+linktr.ee,saas,Linksans,16,400,normal,7,,True,False,Sign up free,"rgb(30, 35, 48)",9999px,62
+llamaindex.ai,ai,OverusedGrotesk,54.7,500,-1.64246px,6,13.9,False,True,Parse,"rgb(255, 255, 255)",0px,37
+loom.com,saas,Charlie Display,63.3,700,normal,7,16,False,True,Get Loom for free,"rgb(24, 104, 219)",9999px,58
+loops.so,saas,Newsreader,44,500,-0.88px,5,20,False,True,Start for free,"rgb(33, 32, 28)",40px,44
+magic.dev,ai,Aeonik,46.4,400,-0.928px,11,20,False,True,,,,
+magicpatterns.com,ai,Poppins,46,500,-1.38px,7,19,False,True,Start for free,oklch(0.1818 0.031 198.6),12px,44
+mailchimp.com,saas,Means Web,64,400,-1.2px,8,13,False,False,Start Free Trial,"rgb(255, 224, 27)",40px,48
+make.com,saas,Satoshi,60,500,-1.2px,11,20,False,False,Try it free,"rgb(143, 75, 210)",8px,47
+mercury.com,saas,arcadiaDisplay,49.3,480,normal,3,12,True,True,Open account,"rgb(82, 102, 235)",32px,40
+metabase.com,saas,Lato,60,700,-2.4px,7,24,False,False,Get started for free,"rgb(80, 158, 227)",12px,44
+midjourney.com,ai,JetBrains Mono,30,400,normal,1,16,True,True,Sign up,"rgb(15, 28, 54)",9999px,42
+miro.com,saas,Apris Regular,56,400,normal,7,20,False,True,See here why we rebuilt Miro →,"rgb(253, 224, 80)",8px,40
+mistral.ai,ai,ALTMistral,96,500,-1.92px,6,16,False,False,Start building,oklch(0.141 0.005 285.823),6px,40
+mixpanel.com,saas,Garnett Medium,48,400,-0.96px,8,14,False,False,Book a Demo,"rgb(31, 32, 35)",100px,40
+modal.com,ai,ABC Diatype,45,500,-0.45px,5,18,True,False,Get started,"rgb(227, 229, 225)",48px,36
+monday.com,saas,Poppins,56,400,-2.24px,7,17.0,False,False,Marketing,"rgb(217, 215, 255)",32px,32
+mongodb.com,saas,Sohne Condensed,100.8,700,normal,6,17,True,True,Builder,"rgb(61, 107, 245)",8px,36
+mural.co,saas,STK Bureau,80,300,-4px,6,18,False,False,Sign up free,"rgb(0, 0, 0)",8px,40
+n8n.io,saas,n8n Baumer Uniwidth,64,500,-0.64px,12,16,False,False,GET STARTED,"rgb(255, 188, 202)",9999px,42
+neon.tech,saas,Inter,56,400,-2.24px,12,15,True,True,Get started,"rgb(255, 255, 255)",3.35544e+07px,44
+netlify.com,saas,Figtree,64,800,normal,6,18,True,False,Start building,"rgb(50, 230, 226)",360px,40
+notebooklm.google,ai,Google Sans Text,118,500,-0.853px,2,18,False,True,,,,
+notion.com,saas,NotionInter,96,600,-4.6px,6,20,False,False,Get Notion free,"rgb(0, 117, 222)",8px,38
+notta.ai,ai,Inter,54,800,normal,7,18,False,False,🔥 Start for Free,"rgb(49, 100, 255)",1000px,48
+obsidian.md,saas,ui-sans-serif,60,600,-1.2px,3,36,True,False,Get Obsidian for macOS,"rgb(124, 58, 237)",8px,60
+opus.pro,ai,Geistvf,60,600,-2.4px,8,14,True,False,Get free clips,"rgb(250, 250, 250)",1000px,52
+otter.ai,ai,Circular,58.5,300,-1.16965px,10,20.5,False,False,,,,
+paddle.com,saas,serrifCondensed,64,400,-0.64px,6,14,False,False,Get started,"rgb(228, 225, 209)",10px,52
+pendo.io,saas,Inter,52,500,-2.34px,9,23,False,False,Explore demos,"rgb(255, 72, 118)",50px,44
+photoroom.com,ai,TT Photoroom,72,400,-1.973px,4,14,False,False,Start creating,"rgb(73, 47, 251)",10px,56
+pika.art,ai,Telka Extended,15,700,normal,6,14.8,True,False,TRY PIKA,"rgb(255, 255, 255)",3.35544e+07px,48
+pinecone.io,ai,gtPlanar,44,700,-0.88px,4,16,False,True,Builder,"rgb(0, 43, 255)",0px,32
+pipedrive.com,saas,Haffer,52,700,normal,8,18,False,False,Try it free,"rgb(104, 97, 242)",4px,56
+pitch.com,saas,Mark Pro Bold,180,700,-7.2px,4,,False,True,Generate,"rgb(83, 24, 235)",4px,36
+plaid.com,saas,Plaid Sans,76,500,-3.4px,6,24,False,True,,,,
+planetscale.com,saas,ui-monospace,16,700,normal,8,16,False,False,Get in touch,"rgb(243, 88, 21)",0px,32
+plausible.io,saas,system-ui,48,800,-1.2px,8,20,False,False,Start free trial,"rgb(88, 80, 236)",6px,58
+poolside.ai,ai,Untitled Sans,32,400,-1.28px,24,12,False,True,Get the weights on Hugging Face ↗,color(display-p3 0.2549 0.2157 1),0px,36
+posthog.com,saas,RoundHog,36,800,-0.9px,4,17,False,True,Get started,"rgb(205, 132, 7)",8px,47
+postman.com,saas,gtStandard,63.4,500,-1.2672px,6,12,False,True,Sign Up for Free,"rgb(224, 83, 31)",5px,32
+productboard.com,saas,eina,60,600,normal,8,20,False,True,Request a demo,oklch(0.56 0.19 255),12px,48
+qdrant.tech,ai,Mona Sans,64,600,-1.5px,5,20,True,True,,,,
+railway.com,saas,IBM Plex Serif,54,500,-1.96px,3,20,True,True,Deploy →,"rgb(85, 63, 131)",8px,58
+ramp.com,saas,Lausanne,64,400,-0.01px,5,14,True,True,Get started for free,lab(92.1406 -20.4979 84.7726),8px,52
+raycast.com,saas,Inter,64,600,normal,4,18,True,True,The Raycast Keyboard,"rgb(19, 13, 14)",1000px,30
+relevanceai.com,ai,Sora,48,400,-2.4px,3,16,False,True,,,,
+relume.io,ai,Geist Variable,56,400,-1.68px,8,18,False,True,Generate Website,"rgb(255, 0, 244)",6px,32
+render.com,saas,PPNeueMontreal,75.6,500,-2.26833px,18,14,False,True,Start for free,"rgb(13, 13, 13)",2px,40
+replicate.com,ai,basier-square,24,400,normal,13,16,False,True,Get started for free,"rgb(0, 0, 0)",0px,54
+replit.com,ai,Replit Diatype,64,400,-3.84px,4,,False,False,Start,"rgb(255, 60, 0)",100px,32
+resend.com,saas,domaine,96,400,-0.96px,3,18,True,True,,,,
+retellai.com,ai,Untitled Sans,16,400,-0.16px,9,14,False,True,Contact Sales,"rgb(245, 245, 250)",6px,32
+retool.com,saas,saansFont,72,300,-1.584px,4,,True,True,Import code,"rgb(217, 217, 217)",12px,38
+rippling.com,saas,__basel_e55247,48,500,-0.72px,7,15,True,False,Create free account,"rgb(255, 168, 29)",4px,54
+rive.app,saas,Orbitron,48,900,-1.44px,6,16,True,True,COPY,"rgba(255, 255, 255, 0.9)",4px,29
+runwayml.com,ai,abcNormal,56,400,-0.84px,7,16,False,False,Try Runway for free,"rgb(247, 247, 247)",8px,40
+scale.com,ai,aeonik,64,400,-0.64px,9,,False,False,Get Started,"rgb(0, 0, 0)",8px,40
+segment.com,saas,Whitney SSm,48,700,-1.44px,10,16,True,False,,,,
+semrush.com,saas,Lazzer,84,600,-3.36px,7,12,False,True,Get insights,"rgb(193, 144, 255)",100px,60
+sentry.io,saas,Dammit Sans,88,700,normal,5,30,True,False,,,,
+shopify.com,saas,Shopify-Inter,96,300,-1.92px,5,14,True,True,Start for free,"rgb(255, 255, 255)",9999px,56
+sierra.ai,ai,gtAmerica,65,400,-1.3px,5,,False,True,Learn more,"rgb(246, 245, 243)",3.35544e+07px,56
+slack.com,saas,Salesforce-Avant-Garde,64,700,-0.768px,8,18,False,True,GET STARTED,"rgb(115, 3, 148)",4px,57
+snowflake.com,saas,Texta,80,900,-0.887px,6,14,False,False,WHY SNOWFLAKE,"rgb(36, 158, 220)",45px,54
+sourcegraph.com,ai,Poly Sans,64,500,-1.984px,7,22,True,True,,,,
+spline.design,saas,Geist,48,450,-2.88px,12,16,True,False,Start building,"rgb(238, 238, 238)",999px,34
+sproutsocial.com,saas,Proxima Nova,57.0,800,normal,6,,True,False,Try free for 30 days,"rgb(152, 229, 142)",6px,52
+squarespace.com,saas,Clarkson,64,300,-3.84px,5,15,True,True,GET STARTED →,"rgb(255, 255, 255)",4px,60
+statsig.com,saas,Geist,65,500,-2px,6,,False,False,Create a free account,"rgb(31, 35, 40)",30px,44
+stripe.com,saas,sohne-var,48,300,-0.96px,21,32,False,False,Get started,"rgb(83, 58, 253)",4px,48
+substack.com,saas,system-ui,19,400,normal,7,15,False,False,Subscriptions,"rgb(255, 255, 255)",12px,48
+suno.com,ai,Neue Montreal,72,500,-0.96px,6,16,True,True,Create,"rgb(0, 0, 0)",9999.01px,40
+supabase.com,saas,Manrope,46,500,normal,7,16,True,True,Start your project,oklch(0.525 0.12 157.5),9.29231px,38
+superhuman.com,saas,Super Sans VF,64,440,normal,4,14,False,True,Looking for Superhuman Mail? Learn more,"rgb(66, 29, 36)",16px,64
+synthesia.io,ai,Basiersquare Webfont,56,500,-3.08px,7,18,False,True,Get started,"rgb(9, 11, 34)",8px,38
+tabnine.com,ai,Open Sans,68,800,-0.68px,5,18,False,True,Ko,"rgb(255, 255, 255)",0px,40
+tally.so,saas,Inter,64,700,-2px,6,22,False,False,Create a free form,"rgb(0, 112, 215)",8px,36
+tldraw.com,saas,Inter,24,700,normal,7,,False,False,Move focus to canvas,"rgb(237, 240, 242)",9px,40
+tldv.io,ai,Work Sans,16,400,normal,7,,True,True,Get tl;dv - Free forever,"rgb(29, 29, 255)",16px,48
+todoist.com,saas,Graphik-1bbd4a4c7a2fb472,55,600,-0.55px,7,20.5,True,True,Start for free,oklch(0.6147 0.1986 30.12),15px,64
+together.ai,ai,The Future,64,500,-1.92px,8,14,False,True,START BUILDING,"rgb(0, 0, 0)",4px,40
+tome.app,ai,geist,24,600,-0.96px,4,16,False,False,,,,
+twilio.com,saas,Whitney SSm,56,700,-1.68px,8,16,True,False,,,,
+typeform.com,saas,Twklausanne 400,24,500,normal,2,16,False,True,,,,
+uizard.io,ai,ClashGrotesk-Variable,72,540,-0.6px,6,24,True,True,Try out in Miro,"rgb(30, 144, 255)",12px,48
+v0.app,ai,GeistSans,32,600,-1.28px,6,,False,True,Use your ChatGPT plan in v0,"rgb(255, 255, 255)",3.35544e+07px,32
+vapi.ai,ai,avantt,80,600,-4px,4,16,True,True,Get started,"rgb(255, 255, 255)",12px,40
+vercel.com,saas,GeistSans,64,400,-3.84px,2,,False,False,Deploy now,"rgb(23, 23, 23)",3.35544e+07px,40
+weaviate.io,ai,Fields Display,68,600,-2.04px,7,15,True,True,,,,
+webflow.com,saas,WF Visual Sans Variable,80,600,-0.8px,4,16,False,True,Get started,"rgb(20, 110, 245)",4px,51
+whimsical.com,saas,Manrope-a5ef729a754bc228,32,700,normal,0,16,True,False,,,,
+windsurf.com,ai,nbInternationalPro,40,400,-1.2px,2,16,False,False,Download for MacOS,"rgb(0, 0, 0)",3.35544e+07px,42
+wise.com,saas,Wise Sans,88.5,900,normal,7,16,False,False,Sign up,"rgb(22, 51, 0)",9999px,48
+wix.com,saas,wix-madefor-display-v2,82.5,400,-1.65px,8,,False,True,Get Started,"rgb(0, 0, 0)",50px,54
+writer.com,ai,Poppins,64,500,-1.28px,6,16,True,False,Request a demo,"rgb(85, 81, 255)",50px,54
+you.com,ai,fontLumenSans,62,400,normal,5,14,False,True,Get API key Y,"rgb(32, 32, 32)",8px,50
+zapier.com,saas,Degular Display,56,500,normal,7,14,False,False,Start free with email,"rgb(255, 79, 0)",4px,40
+zendesk.com,saas,Vanilla Sans,14,700,0.75px,4,14,True,False,,,,
+zoom.us,saas,Newsreader,54,500,normal,7,14,False,True,Explore products Explore products,"rgb(0, 5, 61)",12px,46
