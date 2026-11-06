@@ -15,8 +15,11 @@ tags:
 - design-systems
 - landing-pages
 configs:
-- config_name: default
+- config_name: desktop
   data_files: website-design-statistics-2026.csv
+  default: true
+- config_name: mobile
+  data_files: mobile-website-design-statistics-2026.csv
 ---
 
 # Website Design Statistics 2026
@@ -33,6 +36,10 @@ Headline size, fonts, body text, dark mode, gradients and buttons, measured on t
 - **36%** of homepages are dark (SaaS 37%, AI companies 33%). **53%** use a gradient in the first screen.
 - Main button: median **46px** tall; slightly rounded 45%, pill 29%, square 8%; blue 29%, white 22%, black 21%.
 - "Get started" is the most common button text (21%).
+
+## Mobile
+
+The `mobile` config has the same 196 homepages at 390×664: median headline 40px, body 16px, main button 44px (46% under the 44px touch target, 28% not in the first screen).
 
 ## Columns
 

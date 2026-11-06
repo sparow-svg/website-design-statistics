@@ -23,6 +23,10 @@ Full write-up with charts and screenshots: **[Website Design Statistics 2026 on 
 - Main button colour: blue 29%, white 22%, black 21%, purple 7%.
 - "Get started" is the most common button text (21% of buttons include it). 30% mention "free", 9% ask for a demo.
 
+## Mobile
+
+The same 196 homepages at 390×664 (phone size): median headline 40px (middle half 32–44px), usually 2–3 lines; body text 16px; main button 44px tall, 46% shorter than the 44px touch target, 31% full width, and 28% not visible without scrolling. Data: [`mobile-website-design-statistics-2026.csv`](mobile-website-design-statistics-2026.csv).
+
 ## The data
 
 Also on [Hugging Face](https://huggingface.co/datasets/Sparrowbird/website-design-statistics-2026) and [Kaggle](https://www.kaggle.com/datasets/sparrowsvg/website-design-statistics-2026).

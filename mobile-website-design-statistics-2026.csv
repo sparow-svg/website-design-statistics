@@ -1,0 +1,197 @@
+site,category,headline_px,headline_lines,headline_fully_in_first_screen,body_px,button_text,button_height_px,button_full_width,button_in_first_screen,nav_height_px,text_under_12px_in_first_screen
+21st.dev,ai,40,2,True,17,Get 21st free,46,False,True,56,False
+abridge.com,ai,42,2,True,14,Contact Us,40,True,True,,False
+ahrefs.com,saas,41,6,True,16,Sign up for Ahrefs,56,True,False,44,False
+airtable.com,saas,32,3,True,14,Get started for free,56,True,True,144,False
+amplitude.com,saas,44,2,True,18,Amplitude Solutions →,56,True,True,71,False
+anthropic.com,ai,32,2,True,16,Learn more,36,False,False,84,False
+apollo.io,saas,44,4,True,14,Sign up for free,48,True,True,56,False
+arc.net,saas,52,2,True,18,,,,,87,False
+asana.com,saas,48,3,True,18,Continue,47,False,True,64,False
+atlassian.com,saas,44,3,True,20,Get started with Jira,40,False,True,68,False
+attio.com,saas,16,5,True,6,Send me a demo,40,True,True,100,False
+auth0.com,saas,44,3,True,20,See it in action,50,False,False,106,False
+beehiiv.com,saas,42,4,True,20,Media,42,False,False,,False
+betterstack.com,saas,40,2,True,16,Explore pricing,37,False,False,52,False
+bland.ai,ai,36,2,True,20,Book a call,44,True,True,72,False
+bolt.new,ai,30,2,True,16,Get Started,44,False,True,68,False
+brex.com,saas,36,2,True,12,Get started,40,False,True,,False
+browserbase.com,ai,21,2,True,16,Get API key,39,False,True,56,False
+buffer.com,saas,16.1519,0,True,20.3042,Learn more,50,False,False,69,False
+cal.com,saas,42,3,True,17,Sign up with Google,56,True,True,38,False
+calendly.com,saas,40,3,True,16,Sign up with Google,50,False,True,64,False
+canva.com,saas,24,1,True,14,,,,,,False
+captions.ai,ai,32,3,True,13,Edit,40,False,True,60,False
+chargebee.com,saas,42,4,True,13,Start Free Trial,48,True,True,69,False
+clay.com,saas,41.6,2,True,20,Start free trial,42,False,True,56,False
+clerk.com,saas,32,2,True,15,Support,40,False,True,42,False
+clickup.com,saas,34,2,True,16,Get started. It's FREE,48,True,True,,False
+close.com,saas,38,2,True,17,Explore integrations,44,False,False,75,False
+cloudflare.com,saas,40,5,True,20.8,Start building for free,66,True,True,54,False
+coda.io,saas,52,4,False,22,,,,,,False
+codeium.com,ai,32,1,True,16,Sign up,42,False,True,60,False
+cognition.ai,ai,24,3,True,15,Try Devin,32,False,True,,False
+cohere.com,ai,60,2,True,16,Request a demo,53,True,True,,False
+copy.ai,ai,42.9,2,True,19.5,Get Demo,28,False,False,80,False
+craft.do,saas,48,3,True,24,Get Started,48,False,False,52,False
+cresta.com,ai,32,2,True,14,Book a demo,40,False,False,64,False
+crewai.com,ai,40,5,True,15,Book a Demo,50,False,False,182,False
+crisp.chat,saas,30,4,True,14.5,Included in the Crisp Plus plan,36,False,False,136,False
+cron.com,saas,80,2,True,16,Cron is now Notion Calendar →,45,False,True,96,False
+cursor.com,ai,24.375,2,True,16.2,Get started →,44,False,True,56,True
+customer.io,saas,56,3,True,18,Get started Get started,48,True,True,64,False
+databricks.com,saas,44,3,True,20,Explore the product,36,False,True,48,False
+datadoghq.com,saas,38,3,True,20,FREE TRIAL,42,True,True,892,False
+dbt.com,saas,48,5,True,18,Get started,38,False,False,839,False
+decagon.ai,ai,41.4545,2,True,16.1818,,,,,,False
+deel.com,saas,38,3,True,12,Hire anywhere,73,False,True,156,False
+descript.com,saas,18,1,True,18,Get started for free,45,False,True,,False
+docker.com,saas,36,3,True,14.5,Get started,24,True,True,114,False
+docusign.com,saas,58,3,True,18,Get Started,48,True,True,30,False
+dropbox.com,saas,35.88,4,True,16,Connect now,55,False,False,48,False
+durable.co,ai,56,2,True,16,Expertly written,51,False,False,69,False
+dust.tt,ai,40,3,True,18,,,,,92,True
+e2b.dev,ai,48,3,True,16,START BUILDING,44,True,True,64,False
+elevenlabs.io,ai,36,2,True,13,Sign up,44,False,True,36,False
+factory.ai,ai,16,28,True,16,BOOK DEMO,31,True,True,72,False
+fastly.com,saas,48,2,True,16,Request a demo,43,False,True,,False
+fathom.video,saas,57.4,4,True,14,GET STARTED - FREE FOREVER,48,False,False,,False
+figma.com,saas,36,2,True,24,Get started,77,False,False,,False
+fireflies.ai,ai,40,3,True,14,Get Started,48,True,True,152,False
+fireworks.ai,ai,42,2,True,16,Get started,50,False,True,68,False
+fivetran.com,saas,32,2,True,16,Get started for free,45,False,True,52,False
+fly.io,saas,32,2,True,17,Deploy your app,48,False,True,96,False
+framer.com,saas,36,4,True,18,Get started for free,29,False,True,405,False
+front.com,saas,36,4,True,20,Request demo,48,False,True,96,False
+fullstory.com,saas,50,6,True,16,GET A DEMO,52,False,True,84,False
+galileo.ai,ai,32,2,True,20,Book a Demo,40,False,True,88,False
+ghost.org,saas,25.35,2,True,24,Learn more →,38,False,False,63,False
+github.com,saas,36,2,True,18,Sign up for GitHub,43,True,True,52,False
+gitlab.com,saas,48,3,True,48,Discover GitLab Flex,46,False,False,68,False
+glean.com,ai,28,3,True,16,Get a demo,38,False,True,155,False
+gong.io,saas,36,2,True,16,Explore the platform,48,True,True,106,False
+grafana.com,saas,48,6,True,18,Get started free,48,False,True,80,False
+grammarly.com,saas,30,2,True,16,Sign up It’s free,60,True,True,65,False
+granola.ai,ai,48,4,True,13,Download for free,48,True,False,56,False
+groq.com,ai,30.642,1,True,14.183,,,,,60,False
+harvey.ai,ai,48,3,True,14,Request a Demo,48,False,True,106,False
+hebbia.ai,ai,16,1,True,15,Request a demo,30,False,True,64,False
+helpscout.com,saas,44.6355,4,True,16.0277,Start for Free,51,True,True,80,False
+hex.tech,saas,42,6,True,20,,,,,106,False
+heygen.com,ai,31,2,True,13,Get started for free,44,False,True,72,False
+hootsuite.com,saas,30,5,True,14,Start your free trial,60,True,True,45,False
+hotjar.com,saas,24,2,True,16,,,,,60,False
+hubspot.com,saas,40,6,True,18,Previous,48,False,False,56,False
+huggingface.co,ai,36,2,True,16,Sign Up,29,False,False,65,False
+ideogram.ai,ai,48,3,True,16,Get started Get started,40,False,True,86,False
+incident.io,saas,44,3,True,16,Get a demo,38,True,False,246,False
+inflection.ai,ai,64,3,True,16,Try Pi,56,False,False,64,False
+intercom.com,saas,40,4,True,16,Start free trial,40,False,True,66,False
+jasper.ai,ai,40,2,True,16,Get a Demo,48,True,True,,False
+jina.ai,ai,14,6,True,,,,,,50,False
+krea.ai,ai,16,1,True,12,All,33,False,True,56,False
+labelbox.com,ai,40,2,True,18,Work,26,False,True,,False
+langchain.com,ai,40,2,True,14,Start building,48,False,True,114,False
+launchdarkly.com,saas,34,2,True,14,Book a demo,48,False,True,48,False
+lemonsqueezy.com,saas,40,4,True,16,Get started,54,False,True,,False
+lindy.ai,ai,37.05,2,True,18.2,Try for free,48,False,True,64,False
+linear.app,saas,38,4,True,15,Get started,44,False,False,65,False
+linktr.ee,saas,37.44,2,True,15.6,Get started for free,48,True,True,,False
+llamaindex.ai,ai,32.8353,2,True,16.1388,Docs,59,True,True,51,False
+loom.com,saas,35,2,True,12,Get Loom for free,74,False,True,199,False
+loops.so,saas,44,2,True,20,Start for free,44,False,True,11,False
+magic.dev,ai,29.25,4,True,15.5,,,,,,False
+magicpatterns.com,ai,17,2,True,14,Start for free,44,False,True,56,False
+mailchimp.com,saas,36,3,True,16,Start Free Trial,48,True,True,60,False
+make.com,saas,41.4583,4,True,20,Try it free,47,True,False,,False
+mercury.com,saas,28,1,True,10,Open account,40,False,True,,True
+metabase.com,saas,34,2,True,18,Get started for free,44,False,True,78,True
+midjourney.com,ai,24,1,True,16,Sign up,39,False,True,,False
+miro.com,saas,40,3,True,18,Explore research,40,False,False,1,False
+mistral.ai,ai,40,2,True,16,Start building,40,True,True,49,False
+mixpanel.com,saas,36,1,True,12,Book a Demo,40,False,False,,False
+modal.com,ai,37,2,True,17,Sign up,36,False,True,65,False
+monday.com,saas,33.25,2,True,16,Get Started,50,True,True,,False
+mongodb.com,saas,40,4,True,18,Get Started,50,True,False,56,False
+mural.co,saas,48,2,True,16,Map your sales funnel now,40,False,False,,False
+n8n.io,saas,48,3,True,16,GET STARTED,42,False,True,58,False
+neon.tech,saas,32,3,True,16,Get started,36,False,True,56,True
+netlify.com,saas,40.8189,2,True,18,Start building,40,False,True,61,False
+notebooklm.google,ai,57,2,True,18,Try Gemini Notebook,42,False,True,80,False
+notion.com,saas,42,3,True,16,Get Notion free,38,False,True,309,False
+notta.ai,ai,32,3,True,14,🔥 Start for Free,32,False,True,63,False
+obsidian.md,saas,50.7,2,True,30,Get Obsidian for macOS,60,False,True,60,False
+opus.pro,ai,24,4,True,14.08,Get free clips,48,False,True,684,False
+otter.ai,ai,42,4,True,20,,,,,147,False
+paddle.com,saas,56,3,True,14,Get started,52,False,True,,False
+pendo.io,saas,27,2,True,18,Explore demos,44,False,True,80,False
+photoroom.com,ai,35,1,True,14,Start creating,56,False,True,80,False
+pika.art,ai,15,4,True,12,TRY PIKA,48,False,True,44,False
+pinecone.io,ai,44,2,True,16,Claude Code,38,False,False,75,False
+pipedrive.com,saas,31,3,True,16,Try it free,56,True,True,72,False
+pitch.com,saas,82,3,True,14,Sign up for free,44,False,False,,False
+plaid.com,saas,32,3,True,16,Manage,40,True,True,864,False
+planetscale.com,saas,16,2,True,16,Vitess,57,True,False,80,False
+plausible.io,saas,30,4,True,16,Start free trial,50,True,True,104,False
+poolside.ai,ai,24,3,True,11,Get the weights on Hugging Face ↗,36,True,True,,True
+posthog.com,saas,30,2,True,17,Get started,47,True,True,54,False
+postman.com,saas,58,4,True,12,Sign Up for Free,32,False,True,621,False
+productboard.com,saas,30,3,True,16,Request a demo,48,False,True,64,False
+qdrant.tech,ai,40,4,True,16,RAG & GenAI,36,True,False,64,False
+railway.com,saas,40,2,True,18,Deploy →,58,False,True,240,False
+ramp.com,saas,40,2,True,15,Get started for free,42,True,True,132,True
+raycast.com,saas,36,2,True,14,The Raycast Keyboard,30,False,True,,False
+relevanceai.com,ai,48,1,True,16,Sales,38,False,False,65,False
+relume.io,ai,40,3,True,16,Generate,32,False,False,668,False
+render.com,saas,44,3,True,14,Start for free,40,True,True,60,False
+replicate.com,ai,20,3,True,16,Get started for free,54,False,True,72,False
+replit.com,ai,32,1,True,12,Start,32,False,True,64,False
+resend.com,saas,64,2,True,16,Get Started,41,False,False,,False
+retellai.com,ai,16,2,True,14,Get a call,32,False,False,69,False
+retool.com,saas,40,2,True,16,Import,30,False,True,104,True
+rippling.com,saas,36,3,True,14,Create free account,54,True,True,70,False
+rive.app,saas,32,3,True,16,SEND TO MY COMPUTER,29,False,False,,False
+runwayml.com,ai,36,3,True,16,Try Runway for free,40,False,True,64,False
+scale.com,ai,32,4,True,32,For Enterprise,44,False,True,70,False
+segment.com,saas,32,4,True,14,Visit Twilio.com,40,False,True,124,False
+semrush.com,saas,52,5,True,16,Get insights,48,True,False,70,False
+sentry.io,saas,50.1901,2,True,20,Previous,48,False,False,72,False
+shopify.com,saas,56,2,True,14,Start for free,44,True,True,72,False
+sierra.ai,ai,32,2,True,14,Customer stories,40,False,False,598,False
+slack.com,saas,32,3,True,18,Get started,40,True,True,,False
+snowflake.com,saas,46,3,True,12,WHY SNOWFLAKE,50,False,True,58,False
+sourcegraph.com,ai,36,3,True,16,Get a demo →,32,False,False,89,True
+spline.design,saas,36,3,True,16,Web,24,False,False,65,False
+sproutsocial.com,saas,43,3,True,16,Try free for 30 days,52,True,True,61,False
+squarespace.com,saas,42.4066,2,True,15,GET STARTED →,60,False,True,68,False
+statsig.com,saas,16,2,True,14.4,Explore case studies,41,False,False,,False
+stripe.com,saas,34,2,True,22,Get started,44,True,True,66,False
+substack.com,saas,34,0,True,,All,42,False,False,64,True
+suno.com,ai,48,2,True,16,Create,40,False,True,,False
+supabase.com,saas,34,2,True,16,Start your project,38,False,True,330,False
+superhuman.com,saas,32,2,True,14,Get Superhuman,52,False,False,67,False
+synthesia.io,ai,44,3,True,14,Get started for free,48,False,False,72,False
+tabnine.com,ai,36,3,True,16,,,,,72,False
+tally.so,saas,26,2,True,16,Create a free form,36,False,True,60,False
+tldraw.com,saas,24,0,True,,Move focus to canvas,40,False,True,664,False
+tldv.io,ai,16,0,True,15,Get tl;dv - Free forever,48,True,True,72,False
+todoist.com,saas,37,3,True,18,Start for free,64,False,True,259,False
+together.ai,ai,38,3,True,16,START BUILDING,40,False,True,60,False
+tome.app,ai,24,1,True,16,,,,,,False
+twilio.com,saas,34,3,True,14,Start for free,40,False,True,124,False
+typeform.com,saas,32,1,True,14,Contact sales,48,True,False,72,False
+uizard.io,ai,40,4,True,18,Generate,42,True,True,,False
+v0.app,ai,24,1,True,16,Contact Form,32,False,True,64,False
+vapi.ai,ai,56,2,True,16,Get started,40,False,True,,False
+vercel.com,saas,48,2,True,16,Deploy now,40,True,True,64,False
+weaviate.io,ai,40,3,True,15,Customize,51,True,True,80,True
+webflow.com,saas,46.25,2,True,16,Get started,51,False,True,,False
+whimsical.com,saas,32,1,True,16,Open navigation,48,False,True,72,False
+windsurf.com,ai,32,1,True,16,Sign up,42,False,True,60,False
+wise.com,saas,44.9092,3,True,17.2727,Sign up,48,True,True,,False
+wix.com,saas,41.1667,3,True,16,Get Started,40,False,False,54,False
+writer.com,ai,40,3,True,16,Try for free,45,False,True,76,False
+you.com,ai,44,2,True,14,Get API key Y,50,True,True,71,False
+zapier.com,saas,40,3,True,12,Start free with email,36,False,True,56,False
+zendesk.com,saas,12,1,True,13,Try for free,48,True,False,60,False
+zoom.us,saas,34,2,True,16,Explore products Explore products,46,False,True,72,False
